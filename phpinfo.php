@@ -1,0 +1,6 @@
+<?PHP
+
+//Test sript
+
+phpinfo();
+?>
